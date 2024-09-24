@@ -1,4 +1,4 @@
-# Tetris By David
+# Tetris By Thea
 A basic tetris game, made using SFML
 
 ## Controls:
